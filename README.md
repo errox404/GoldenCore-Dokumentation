@@ -1,0 +1,2 @@
+# GoldenCore-Dokumentation
+GoldenCore Dokumentation
