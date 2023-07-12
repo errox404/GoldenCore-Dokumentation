@@ -1,4 +1,4 @@
-# GoldenCore
+# GoldenCore-Dokumentation
 
 ## Permissions
 | Name                                         | Funktion / Commands                        |Default| Beschreibung                                     | 
